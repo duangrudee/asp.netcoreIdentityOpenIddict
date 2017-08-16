@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{894E71BF-7FC1-44B3-9CC0-3BE8C0403ABF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Startup.cs">
+    <Files>
+      <File FileName="Models/ApplicationUser.cs" Line="12" Column="54" />
+      <File FileName="Models/AccountViewModels/RegisterViewModel.cs" Line="35" Column="40" />
+      <File FileName="Startup.cs" Line="133" Column="50" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/aing_d/Desktop/Sample/dotnetcoreTokenAuthen/Controllers/ConnectController.cs" relfile="Controllers/ConnectController.cs" line="101" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.dotnetcoreTokenAuthen PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
