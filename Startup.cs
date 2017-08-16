@@ -57,7 +57,7 @@ namespace dotnetcoreTokenAuthen
                 .AddEntityFrameworkStores<ApplicationDbContext>()
                 .AddDefaultTokenProviders();
 
-            var jwtSigningCert = new X509Certificate2("./AuthSample.p12", "Passw0rd@");
+            var jwtSigningCert = new X509Certificate2("Path To .pfx or .p12 file", "PutSomePasswordHere");
 
 			// Register the OpenIddict services.
 			// Note: use the generic overload if you need
